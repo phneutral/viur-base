@@ -44,6 +44,7 @@
     "gulp-postcss": "^8.0",
     "gulp-rename": "^1.4",
     "gulp-stylefmt": "^1.1",
+    "postcss-discard-comments": "^4.0.2",
     "postcss-focus": "^2.0.0",
     "postcss-zindex": "^4.0.1"
   }
